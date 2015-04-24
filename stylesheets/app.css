@@ -6151,3 +6151,7 @@ th.hide-for-touch {
 
   th.show-for-print {
     display: table-cell !important; } }
+html, body, #map-canvas {
+  height: 100%;
+  margin: 0px;
+  padding: 0px; }

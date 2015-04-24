@@ -1,10 +1,4 @@
 (function (){
-
-  var API_MAPS_KEY = "AIzaSyA7nSWoLc22iPe3Gs-O8BAqs9TZs4RVOJU";
-  var API_MAPS_URL = "https://maps.googleapis.com/maps/api/js"+"?"+API_MAPS_KEY;
-
-  $.getJSON(API_MAPS_URL);
-
 	var map;
 
       function initialize() {
@@ -17,4 +11,6 @@
       }
 
       google.maps.event.addDomListener(window, 'load', initialize);
+
+      
 })();
