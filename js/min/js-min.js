@@ -1,1 +1,0 @@
-!function(){function e(){var e={zoom:8,center:new google.maps.LatLng(-34.397,150.644)};n=new google.maps.Map(document.getElementById("map-canvas"),e)}var n;google.maps.event.addDomListener(window,"load",e)}();
