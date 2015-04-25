@@ -31,15 +31,15 @@ function initialize()
             elementType: "labels",
             stylers: 
             [
-                { visibility: "off" }
+                { visibility: "on" }
             ]
         },
         {
-            featureType:"restaurants",
+            featureType:"poi.business",
             elementType:"labels.text",
             stylers: 
             [
-                { visibility:"on" },
+                { visibility:"off" },
                 {hue:"#ff3210"}
             ]
         },
