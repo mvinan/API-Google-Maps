@@ -1,1 +1,1 @@
-@import url(normalize.css);.container{margin:0;padding:0;height:500px}#map-canvas{height:100%;margin:0 auto;padding:0px;width:100%}#toolTip{border:2px solid black}
+@import url(normalize.css);.container{margin:0;padding:0;height:500px}#map-canvas{height:100%;margin:0 auto;padding:0px;width:100%}#toolTip{color:white;background:#c00047;padding:1em;text-align:center}
